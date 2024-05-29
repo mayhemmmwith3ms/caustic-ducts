@@ -1,0 +1,19 @@
+[MERGE]
+ROOMS
+GW_C08 : GW_A04, GW_B06, GW_CAUSTIC01, GW_C09
+
+GATE_GW_22 : GW_CAUSTIC02, DISCONNECTED : GATE
+
+GW_CAUSTIC01 : GW_C08, GW_CAUSTIC02
+GW_CAUSTIC02 : GATE_GW_22, GW_CAUSTIC01
+END ROOMS
+
+CREATURES
+(X-Saint,Yellow,Rivulet)GW_C08 : 4-Leech-10, 6-Snail-4, 4-Daddy-{PreCycle}
+(Yellow)GW_C08 : 4-Leech-10, 6-Snail-4, 4-Bro-{PreCycle}
+(Rivulet)GW_C08 : 4-Leech-10, 6-Snail-4, 4-Bro-{PreCycle}
+
+(X-Saint)GW_CAUSTIC02 : 2-Snail-2, 3-Leech-7
+(Saint)GW_CAUSTIC02 : 3-SeaLeech-4
+END CREATURES
+[ENDMERGE]

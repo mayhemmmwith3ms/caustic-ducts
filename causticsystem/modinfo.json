@@ -1,0 +1,10 @@
+{
+    "id": "mayhemmm.caustic",
+    "name": "Caustic Ducts",
+    "version": "0.1",
+    "authors": "mayhemmm",
+    "requirements": ["crs"],
+	"requirements_names": ["Custom Regions Support"],
+    "tags": ["Regions"],
+    "checksum_override_version": false
+}

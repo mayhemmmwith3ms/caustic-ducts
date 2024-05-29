@@ -1,0 +1,7 @@
+Template: GW_SettingsTemplate_Inside
+DangerType: Flood
+Grime: 0.2989356
+EffectColorA: 18
+EffectColorB: 13
+AmbientSounds: SPOT><SO_WAT-OpenFlow.ogg><758.045><464.2735><0.360802><1><429.8284><647.0547><-35.35534><-35.35534><0><0.4015967, SPOT><SO_WAT-Splashes.ogg><841.3152><260.8791><0.3066685><1.208797><472.5454><31.01459><-82.31152><-60.25638><0><0.2237317, 
+FadePalette: 227, 0.2551968

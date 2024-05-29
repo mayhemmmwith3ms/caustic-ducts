@@ -1,0 +1,12 @@
+Palette: 60
+batDepleteCyclesMin: 2
+batDepleteCyclesMax: 7
+batDepleteCyclesMaxIfLessThanTwoLeft: 3
+batDepleteCyclesMaxIfLessThanFiveLeft: 4
+overseersSpawnChance: 0.5
+overseersMin: 1
+overseersMax: 2
+playerGuideOverseerSpawnChance: 0.0
+Room Setting Templates: general, acid
+Subregion: Caustic Ducts
+Room_Attr: 22_WASTE04: PinkLizard-Forbidden,

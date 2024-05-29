@@ -1,0 +1,11 @@
+[MERGE]
+ROOMS
+SB_G03 : SB_2201, SB_E04, SB_J01, SB_F01
+SB_2201 : DISCONNECTED, SB_G03
+END ROOMS
+
+CREATURES
+SB_G03 : 4-TentaclePlant, 5-Centipede, 6-Centipede, 7-Centipede
+SB_2201 : 3-TentaclePlant, 4-Small Centipede-3, 2-Centipede
+END CREATURES
+[ENDMERGE]
